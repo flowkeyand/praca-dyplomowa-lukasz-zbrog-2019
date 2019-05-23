@@ -151,4 +151,6 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
+!feature_2.jar
+
 # End of https://www.gitignore.io/api/java,gradle,intellij
