@@ -22,7 +22,7 @@
     </dependencies>
 
     <build>
-        <finalName>FEATURE_NAME</finalName>
+        <finalName>feature_3</finalName>
         <plugins>
 
             <!-- download source code in Eclipse, best practice -->
