@@ -151,4 +151,7 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
+dependency-reduced-pom.xml
+!feature_1.jar
+
 # End of https://www.gitignore.io/api/java,gradle,intellij
